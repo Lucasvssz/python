@@ -48,3 +48,11 @@
 # times.insert(3, 'bragantino')
 #
 # print(times[0])
+
+times = ['sp', 'sc', 'gb', 'hg', 'gh', 'df']
+print(times)
+
+times.remove('sp')
+times.remove('sc')
+
+print(times)
